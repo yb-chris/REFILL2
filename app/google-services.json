@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357625078550",
+    "project_id": "refill-2eb80",
+    "storage_bucket": "refill-2eb80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357625078550:android:65974e0194417c750ee637",
+        "android_client_info": {
+          "package_name": "com.example.refill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAwxIKJChzFSNaDT4RWBFkG1O7jMb_vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
